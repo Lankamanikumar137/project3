@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://delightful-coast-00a1dca00.3.azurestaticapps.net/
-**demo link** -
+**demo link** - https://youtu.be/u0aKssWEYNQ
 
 Azure technologies used for project
 .Static web apps
